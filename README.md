@@ -71,7 +71,8 @@ One-sentence platform description, three-platform overview,
 Scale vs. Business functional differences, and the complete
 guide index.
 
-**MODULE 02A — Voice Cloning: Quality and Requirements**
+[**MODULE 02A — Voice Cloning: Quality and Requirements**](elevenlabs-csm-field-guide/modules/02a-voice-cloning-quality.md)  
+
 When the buyer asks how good the clone will sound.
 Instant vs. Professional cloning, source audio requirements,
 the demo gap, the uncanny valley risk, and the honest
