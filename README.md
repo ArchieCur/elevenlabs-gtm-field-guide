@@ -86,7 +86,8 @@ ElevenLabs' Prohibited Use Policy, the Trust Center
 escalation path, and the pre-cloning legal checklist.
 *Read before any cloning project begins.*
 
-**MODULE 03 — Third-Party Integration Reality**
+[**MODULE 03 — Third-Party Integration Reality**](elevenlabs-csm-field-guide/modules/03-integration-reality.md)  
+
 When the buyer asks about their existing tools.
 HeyGen (now native — with conditions), Zapier, Make,
 Adobe, Descript — what connects, what requires workarounds,
