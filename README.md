@@ -116,7 +116,8 @@ Rabbit Hole, Accidental Authority), how to hold all three
 personas simultaneously, and the closing move that creates
 a shared record of commitments.
 
-**MODULE 07 — The Honest Limitations Card**
+[**MODULE 07 — The Honest Limitations Card**](elevenlabs-csm-field-guide/modules/07-honest-limitations.md)  
+
 When the buyer asks what the platform can't do.
 Seven confirmed limitations with honest answers and workarounds,
 the Exit framework (Exits 0–3), and the three ways to hold
