@@ -29,11 +29,12 @@ a script. They need preparation. That's what this guide provides.
 
 ## What This Guide Covers
 
-**Platform:** ElevenLabs
-**Scope:** Text to Speech (TTS) and Voice Cloning
-**Buyer tier:** Scale and Business (verify current pricing
-at elevenlabs.io/pricing before every buyer conversation)
-**Audience:** CSMs and AEs working the expansion revenue motion
+**Platform:** ElevenLabs  
+**Scope:** Text to Speech (TTS) and Voice Cloning  
+**Buyer tier:** Scale and Business (verify current pricing  
+at elevenlabs.io/pricing before every buyer conversation)    
+**Audience:** CSMs and AEs working the expansion revenue motion  
+**Role Profiles:** Context on buyers  
 
 This guide does not cover ElevenAgents, AI Music generation,
 the free or Creator tier buyer conversation, or deep API
