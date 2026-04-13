@@ -123,7 +123,8 @@ Seven confirmed limitations with honest answers and workarounds,
 the Exit framework (Exits 0–3), and the three ways to hold
 a deal while being truthful about what the platform can't do yet.
 
-**MODULE 08 — Data Security and Compliance**
+[**MODULE 08 — Data Security and Compliance**](elevenlabs-csm-field-guide/modules/08-data-security-compliance.md)  
+
 When the IT Administrator goes quiet.
 ElevenLabs' certification stack explained in plain language,
 the Trust Center as the CSM's primary compliance resource,
