@@ -108,7 +108,8 @@ Character counting, the regeneration cost nobody warns about,
 the two-usage-number problem, commercial license boundaries,
 and the Voice Library license distinction.
 
-**MODULE 06 — The Buying Committee Playbook**
+[**MODULE 06 — The Buying Committee Playbook**](elevenlabs-csm-field-guide/modules/06-buying-committee-playbook.md)  
+
 When everyone is in the room at once.
 The three ways the room goes wrong (Performance Stakeholder,
 Rabbit Hole, Accidental Authority), how to hold all three
