@@ -78,7 +78,8 @@ Instant vs. Professional cloning, source audio requirements,
 the demo gap, the uncanny valley risk, and the honest
 upsell path from Instant to Professional.
 
-**MODULE 02B — Voice Cloning: Consent, IP, and Legal Workflow**
+[**MODULE 02B — Voice Cloning: Consent, IP, and Legal Workflow**](elevenlabs-csm-field-guide/modules/02b-voice-cloning-legal.md)  
+
 When the buyer's legal team asks about consent and ownership.
 The three legal conversations in every cloning project,
 ElevenLabs' Prohibited Use Policy, the Trust Center
