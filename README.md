@@ -34,7 +34,7 @@ a script. They need preparation. That's what this guide provides.
 **Buyer tier:** Scale and Business (verify current pricing  
 at elevenlabs.io/pricing before every buyer conversation)    
 **Audience:** CSMs and AEs working the expansion revenue motion  
-**Role Profiles:** Context on buyers  
+[**Role Profiles:** Context on Who's at the table](elevenlabs-csm-field-guide/buyer-context.md)    
 
 This guide does not cover ElevenAgents, AI Music generation,
 the free or Creator tier buyer conversation, or deep API
