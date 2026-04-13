@@ -64,7 +64,8 @@ Find the question. Pull the module. Walk in prepared.
 
 ---
 
-**MODULE 01 — Platform Architecture: What You're Actually Selling**
+[**MODULE 01 — Platform Architecture: What You're Actually Selling**](elevenlabs-csm-field-guide/modules/01-platform-architecture.md)  
+
 Start here if you're new to ElevenLabs or new to this guide.
 One-sentence platform description, three-platform overview,
 Scale vs. Business functional differences, and the complete
