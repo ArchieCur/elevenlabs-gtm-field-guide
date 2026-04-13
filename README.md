@@ -46,7 +46,7 @@ with separate technical and compliance profiles.
 
 ### Before Any Meeting — Start Here
 
-**→ csm-ambush-prep.md**
+**→ [csm-ambush-prep.md](elevenlabs-csm-field-guide/quick-reference/csm-ambush-prep.md**
 The pre-meeting quick reference card. Use it the morning
 before any buyer conversation. Covers:
 - Who is in the room and what each persona needs
