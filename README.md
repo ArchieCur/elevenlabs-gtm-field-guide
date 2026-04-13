@@ -1,4 +1,4 @@
-# ElevenLabs CSM Field Guide
+# ElevenLabs GTM Field Guide
 ## TTS and Voice Cloning — Scale and Business Tier
 
 ---
