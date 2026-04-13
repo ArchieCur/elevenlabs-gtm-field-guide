@@ -94,7 +94,8 @@ Adobe, Descript — what connects, what requires workarounds,
 and the CSM talking point that turns every integration
 limitation into a workflow design conversation.
 
-**MODULE 04 — The Fine-Tuning Learning Curve**
+[**MODULE 04 — The Fine-Tuning Learning Curve**](elevenlabs-csm-field-guide/modules/04-fine-tuning-learning-curve.md)  
+
 When a non-technical user will be operating the platform.
 Slider symptoms and fixes in user vocabulary, model
 recommendations for first-time users, long-form consistency
