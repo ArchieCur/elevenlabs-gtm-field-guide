@@ -101,7 +101,8 @@ Slider symptoms and fixes in user vocabulary, model
 recommendations for first-time users, long-form consistency
 protocols, SSML surprises, and the week-one onboarding sequence.
 
-**MODULE 05 — Pricing Gotchas**
+[**MODULE 05 — Pricing Gotchas**](elevenlabs-csm-field-guide/modules/05-pricing-gotchas.md)  
+
 When the buyer asks about cost — or discovers it on their invoice.
 Character counting, the regeneration cost nobody warns about,
 the two-usage-number problem, commercial license boundaries,
